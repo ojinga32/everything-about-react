@@ -3,7 +3,7 @@
 const Button = ({children, text, color = "blue"}) => {
 
     const onClickButton = (e) => {
-        console.log(e)
+        console.log(e )
         console.log(text)
     }
 
