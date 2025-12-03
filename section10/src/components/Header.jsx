@@ -1,5 +1,5 @@
+import { memo } from 'react';
 import './Header.css'
-
 
 function Header() {
     return ( 
@@ -10,4 +10,5 @@ function Header() {
      );
 }
 
-export default Header;
+
+export default memo(Header);
