@@ -1,4 +1,4 @@
-#호스팅 : https://emotion-diary-eight-sigma.vercel.app/
+# 호스팅 : https://emotion-diary-eight-sigma.vercel.app/
 
 # React의 기술적인 특징 정리
 
